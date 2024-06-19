@@ -1,4 +1,4 @@
-# Impplementation_of_BIGINT
+# Implementation_of_BIGINT
 
 BigInt is a user defined datatype designed to handle large integers up to 1024 bits. It supports basic arithmetic operations, including addition, subtraction, and multiplication. This program provides a simple command-line interface for user interaction and ensures efficient memory usage through dynamic memory allocation.
 
